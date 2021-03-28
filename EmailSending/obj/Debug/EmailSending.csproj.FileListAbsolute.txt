@@ -1,0 +1,164 @@
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\EmailSending.dll.config
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\EmailSending.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\EmailSending.pdb
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\csc.exe
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\csc.exe.config
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\csc.rsp
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\csi.exe
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\csi.exe.config
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\csi.rsp
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\System.AppContext.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\System.Collections.Immutable.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\System.Console.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\System.IO.Compression.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\System.IO.FileSystem.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\System.IO.Pipes.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\System.Reflection.Metadata.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\System.Security.AccessControl.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\System.Security.Claims.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\System.ValueTuple.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\System.Xml.XPath.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\vbc.exe
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\vbc.exe.config
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\vbc.rsp
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\VBCSCompiler.exe
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\roslyn\VBCSCompiler.exe.config
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\EntityFramework.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\EntityFramework.SqlServer.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\Microsoft.Web.Infrastructure.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\System.Web.Helpers.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\System.Web.Mvc.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\System.Web.Razor.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\System.Web.Webpages.Deployment.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\System.Web.Webpages.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\System.Web.Webpages.Razor.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\EntityFramework.xml
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\EntityFramework.SqlServer.xml
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\System.Web.Razor.xml
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\System.Web.Webpages.xml
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\System.Web.Webpages.Deployment.xml
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\System.Web.Webpages.Razor.xml
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\System.Web.Helpers.xml
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\System.Web.Mvc.xml
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\obj\Debug\EmailSending.csprojAssemblyReference.cache
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\obj\Debug\EmailSending.csproj.CoreCompileInputs.cache
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\obj\Debug\EmailSending.csproj.CopyComplete
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\obj\Debug\EmailSending.dll
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\obj\Debug\EmailSending.pdb
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\obj\Debug\EmailSending.Migrations.IntialDb.resources
+E:\Shafiqul Islam Talukder\Dotnet Projects\EmailSending\EmailSending\obj\Debug\EmailSending.csproj.GenerateResource.cache
+E:\DotNet Projects\EmailSending\EmailSending\bin\EmailSending.dll.config
+E:\DotNet Projects\EmailSending\EmailSending\bin\EmailSending.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\EmailSending.pdb
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\csc.exe
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\csc.exe.config
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\csc.rsp
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\csi.exe
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\csi.exe.config
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\csi.rsp
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\Microsoft.Managed.Core.targets
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\System.AppContext.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\System.Collections.Immutable.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\System.Console.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\System.IO.Compression.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\System.IO.FileSystem.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\System.IO.Pipes.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\System.Reflection.Metadata.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\System.Security.AccessControl.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\System.Security.Claims.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\System.Security.Principal.Windows.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\System.ValueTuple.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\System.Xml.XmlDocument.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\System.Xml.XPath.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\vbc.exe
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\vbc.exe.config
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\vbc.rsp
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\VBCSCompiler.exe
+E:\DotNet Projects\EmailSending\EmailSending\bin\roslyn\VBCSCompiler.exe.config
+E:\DotNet Projects\EmailSending\EmailSending\bin\EntityFramework.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\EntityFramework.SqlServer.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\Microsoft.Web.Infrastructure.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\System.Web.Helpers.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\System.Web.Mvc.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\System.Web.Razor.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\System.Web.Webpages.Deployment.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\System.Web.Webpages.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\System.Web.Webpages.Razor.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\EntityFramework.xml
+E:\DotNet Projects\EmailSending\EmailSending\bin\EntityFramework.SqlServer.xml
+E:\DotNet Projects\EmailSending\EmailSending\bin\System.Web.Razor.xml
+E:\DotNet Projects\EmailSending\EmailSending\bin\System.Web.Webpages.xml
+E:\DotNet Projects\EmailSending\EmailSending\bin\System.Web.Webpages.Deployment.xml
+E:\DotNet Projects\EmailSending\EmailSending\bin\System.Web.Webpages.Razor.xml
+E:\DotNet Projects\EmailSending\EmailSending\bin\System.Web.Helpers.xml
+E:\DotNet Projects\EmailSending\EmailSending\bin\System.Web.Mvc.xml
+E:\DotNet Projects\EmailSending\EmailSending\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DotNet Projects\EmailSending\EmailSending\obj\Debug\EmailSending.csprojAssemblyReference.cache
+E:\DotNet Projects\EmailSending\EmailSending\obj\Debug\EmailSending.Migrations.IntialDb.resources
+E:\DotNet Projects\EmailSending\EmailSending\obj\Debug\EmailSending.csproj.GenerateResource.cache
+E:\DotNet Projects\EmailSending\EmailSending\obj\Debug\EmailSending.csproj.CoreCompileInputs.cache
+E:\DotNet Projects\EmailSending\EmailSending\obj\Debug\EmailSending.csproj.CopyComplete
+E:\DotNet Projects\EmailSending\EmailSending\obj\Debug\EmailSending.dll
+E:\DotNet Projects\EmailSending\EmailSending\obj\Debug\EmailSending.pdb
+E:\DotNet Projects\EmailSending\EmailSending\bin\ClosedXML.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\DocumentFormat.OpenXml.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\ExcelNumberFormat.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\System.IO.FileSystem.Primitives.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\System.IO.Packaging.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\ClosedXML.pdb
+E:\DotNet Projects\EmailSending\EmailSending\bin\ClosedXML.xml
+E:\DotNet Projects\EmailSending\EmailSending\bin\DocumentFormat.OpenXml.xml
+E:\DotNet Projects\EmailSending\EmailSending\bin\ExcelNumberFormat.xml
+E:\DotNet Projects\EmailSending\EmailSending\bin\Rotativa.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\BouncyCastle.Crypto.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\itextsharp.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\itextsharp.xmlworker.dll
+E:\DotNet Projects\EmailSending\EmailSending\bin\itextsharp.xml
